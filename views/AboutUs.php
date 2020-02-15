@@ -1,2 +1,2 @@
-<h1>Hello world</h1>
-<?php echo self::query("SELECT name FROM users")[1]['name'] ?>
+<p>content Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic accusantium eos voluptas nostrum culpa dolorum. Quibusdam, ex? Libero fugiat, nulla facere recusandae, quam itaque doloremque error quos rerum voluptatum fuga?</p>
+<!-- <?php echo self::query("SELECT name FROM users")[1]['name'] ?> -->
