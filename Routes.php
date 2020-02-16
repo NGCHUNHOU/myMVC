@@ -6,6 +6,10 @@
   } );
 
   Route::set('contact-us', function() {
-     ContactUs::CreateView('ContactUs');
+    ContactUs::CreateView('ContactUs');
 } );
+
+  Route::subset("hello", function() {
+    echo 'second parameter';
+  });
 ?>
